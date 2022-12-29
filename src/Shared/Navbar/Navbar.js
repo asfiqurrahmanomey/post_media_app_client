@@ -32,14 +32,14 @@ const Navbar = () => {
             </Link>
         </li>
         <li>
-            <Link
-                to="/message"
+            <a
+                herf="https://asfiqur-rahman-quiz-templete-pro.netlify.app"
                 aria-label="Message"
                 title="Message Me"
                 className="uppercase font-medium tracking-wide text-white transition-colors duration-200 hover:text-teal-200 hover:line-through hover:decoration-double hover:decoration-slate-400"
             >
                 Message
-            </Link>
+            </a>
         </li>
         <li>
             <Link
